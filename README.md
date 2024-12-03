@@ -1,7 +1,7 @@
 # The Ultimate C Programming Handbook
 
 
-This course is designed to take you from a beginner to an advanced C programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning. Refer to this [video](https://www.youtube.com/watch?v=aZb0iu4uGwA) to watch my C course.
+This course is designed to take you from a beginner to an advanced C programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
 
 
 
