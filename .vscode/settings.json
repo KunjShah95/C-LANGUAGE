@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "NATURALNUMBERUSINGDOWHILELOOP.C": "cpp",
+        "Q2.C": "cpp",
+        "ARRAYS.C": "cpp",
+        "A.C": "cpp",
+        "PRITNINGSTRINGS.C": "cpp",
+        "TYPEDEF.C": "cpp",
+        "TYPEEDEF.C": "cpp"
+    },
+    "editor.acceptSuggestionOnEnter": "on"
+}
