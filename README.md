@@ -1,4 +1,4 @@
-# The Ultimate C Programming Handbook
+# The Ultimate C Programming 
 
 
 This course is designed to take you from a beginner to an advanced C programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
@@ -7,7 +7,7 @@ This course is designed to take you from a beginner to an advanced C programmer.
 
 ## Introduction
 
-This repository is part of **The Ultimate C Programming Handbook**. The course aims to provide a comprehensive guide to learning C programming.
+This repository is part of **The Ultimate C Programming **. The course aims to provide a comprehensive guide to learning C programming.
 
 ## Chapters
 
